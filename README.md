@@ -17,7 +17,9 @@ This project is a machine learning-based system to predict **Diabetes, Heart Dis
 1. Clone the repository:
 git clone https://github.com/namanguptaa24/multi_disease_project.git
 2. Navigate to the project folder:
+cd multi_disease_project
 3. Install dependencies:
 pip install -r requirements.txt
 4. Run the Streamlit app:
+streamlit run app.py
 5. Open the browser and use the app.
